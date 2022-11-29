@@ -5,7 +5,7 @@ https://vandreys.github.io/apeperia/
 ## Sobre o Projeto
 
 
-Apeperia é uma aplicação front-end e mobile construída durante o curso ..., curso oferecido pelo Alura.
+Apeperia é uma aplicação front-end e mobile construída durante o curso de Layouts Responsivos: trabalhando com layouts mobile, curso oferecido pelo Alura.
 
 A aplicação consiste em um layout de uma página de ..., sendo responsivo para desktop e mobile.
 
